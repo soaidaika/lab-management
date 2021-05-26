@@ -5,7 +5,7 @@ Software Engineering's Final Project - Class SOEN330679E_20_2_02CLC
 -----------------------------------------------
 
 
-# ⋇⋆✦⋆⋇ **Members** ⋇⋆✦⋆⋇
+# **Members**
 | Full name  | ID|
 | ------------- | ------------- |
 | Huỳnh Quang Duy   | 18110007  |
@@ -13,7 +13,7 @@ Software Engineering's Final Project - Class SOEN330679E_20_2_02CLC
 | Tôn Trí Thiện    | 18110050  |
 -----------------------------------------------
 
-# ⋇⋆✦⋆⋇ **Setup** ⋇⋆✦⋆⋇
+# **Setup**
 
 **Step 1:** Open SSMS and restore the **```lab-new.bak```**, the file is in the folder **```database```**.
 ![Http cat](https://scontent-xsp1-2.xx.fbcdn.net/v/t1.15752-9/190605521_219084263116515_247758605410253571_n.png?_nc_cat=101&ccb=1-3&_nc_sid=ae9488&_nc_ohc=ghZfKnt31soAX811jzd&_nc_ht=scontent-xsp1-2.xx&oh=6948951fde129fdb7df949f7b5543d46&oe=60D2C4DC)
