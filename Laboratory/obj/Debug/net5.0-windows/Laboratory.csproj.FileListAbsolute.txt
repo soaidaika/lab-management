@@ -1,0 +1,123 @@
+C:\Users\Admin\Desktop\lab-management\Laboratory\bin\Debug\net5.0-windows\Laboratory.exe
+C:\Users\Admin\Desktop\lab-management\Laboratory\bin\Debug\net5.0-windows\Laboratory.deps.json
+C:\Users\Admin\Desktop\lab-management\Laboratory\bin\Debug\net5.0-windows\Laboratory.runtimeconfig.json
+C:\Users\Admin\Desktop\lab-management\Laboratory\bin\Debug\net5.0-windows\Laboratory.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\lab-management\Laboratory\bin\Debug\net5.0-windows\Laboratory.dll
+C:\Users\Admin\Desktop\lab-management\Laboratory\bin\Debug\net5.0-windows\ref\Laboratory.dll
+C:\Users\Admin\Desktop\lab-management\Laboratory\bin\Debug\net5.0-windows\Laboratory.pdb
+C:\Users\Admin\Desktop\lab-management\Laboratory\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\lab-management\Laboratory\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\lab-management\Laboratory\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\lab-management\Laboratory\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\lab-management\Laboratory\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\lab-management\Laboratory\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.ApparatusForm.resources
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.ChangePasswordForm.resources
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.DepartmentForm.resources
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.Login.resources
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.ScientistsForm.resources
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.UpdateInfoForm.resources
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.ViewParticipantForm.resources
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.AddApparatusForm.resources
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.AddProjectForm.resources
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.AddScientistForm.resources
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.MainPage_Manager.resources
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.Properties.Resources.resources
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.MainPage_Scientist.resources
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.ReportForm.resources
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.AssemblyInfo.cs
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.csproj.CopyComplete
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.dll
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\net5.0-windows\ref\Laboratory.dll
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.pdb
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.genruntimeconfig.cache
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.Manager.EditScientistForm.resources
+D:\Software Engineering\lab-management\Laboratory\bin\Debug\net5.0-windows\Laboratory.exe
+D:\Software Engineering\lab-management\Laboratory\bin\Debug\net5.0-windows\Laboratory.deps.json
+D:\Software Engineering\lab-management\Laboratory\bin\Debug\net5.0-windows\Laboratory.runtimeconfig.json
+D:\Software Engineering\lab-management\Laboratory\bin\Debug\net5.0-windows\Laboratory.runtimeconfig.dev.json
+D:\Software Engineering\lab-management\Laboratory\bin\Debug\net5.0-windows\Laboratory.dll
+D:\Software Engineering\lab-management\Laboratory\bin\Debug\net5.0-windows\ref\Laboratory.dll
+D:\Software Engineering\lab-management\Laboratory\bin\Debug\net5.0-windows\Laboratory.pdb
+D:\Software Engineering\lab-management\Laboratory\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Software Engineering\lab-management\Laboratory\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Software Engineering\lab-management\Laboratory\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Software Engineering\lab-management\Laboratory\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Software Engineering\lab-management\Laboratory\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Software Engineering\lab-management\Laboratory\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.csprojAssemblyReference.cache
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.csproj.ResolveComReference.cache
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.ApparatusForm.resources
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.ChangePasswordForm.resources
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.DepartmentForm.resources
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.Login.resources
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.ScientistsForm.resources
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.UpdateInfoForm.resources
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.ViewParticipantForm.resources
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.AddApparatusForm.resources
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.AddProjectForm.resources
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.AddScientistForm.resources
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.Manager.EditScientistForm.resources
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.MainPage_Manager.resources
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.Properties.Resources.resources
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.MainPage_Scientist.resources
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.ReportForm.resources
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.csproj.GenerateResource.cache
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.AssemblyInfoInputs.cache
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.AssemblyInfo.cs
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.csproj.CoreCompileInputs.cache
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.csproj.CopyComplete
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.dll
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\net5.0-windows\ref\Laboratory.dll
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.pdb
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\net5.0-windows\Laboratory.genruntimeconfig.cache
+D:\New folder\Laboratory\bin\Debug\net5.0-windows\Laboratory.exe
+D:\New folder\Laboratory\bin\Debug\net5.0-windows\Laboratory.deps.json
+D:\New folder\Laboratory\bin\Debug\net5.0-windows\Laboratory.runtimeconfig.json
+D:\New folder\Laboratory\bin\Debug\net5.0-windows\Laboratory.runtimeconfig.dev.json
+D:\New folder\Laboratory\bin\Debug\net5.0-windows\Laboratory.dll
+D:\New folder\Laboratory\bin\Debug\net5.0-windows\ref\Laboratory.dll
+D:\New folder\Laboratory\bin\Debug\net5.0-windows\Laboratory.pdb
+D:\New folder\Laboratory\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\New folder\Laboratory\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\New folder\Laboratory\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\New folder\Laboratory\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\New folder\Laboratory\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\New folder\Laboratory\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\New folder\Laboratory\obj\Debug\net5.0-windows\Laboratory.csprojAssemblyReference.cache
+D:\New folder\Laboratory\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+D:\New folder\Laboratory\obj\Debug\net5.0-windows\Laboratory.csproj.ResolveComReference.cache
+D:\New folder\Laboratory\obj\Debug\net5.0-windows\Laboratory.ApparatusForm.resources
+D:\New folder\Laboratory\obj\Debug\net5.0-windows\Laboratory.ChangePasswordForm.resources
+D:\New folder\Laboratory\obj\Debug\net5.0-windows\Laboratory.DepartmentForm.resources
+D:\New folder\Laboratory\obj\Debug\net5.0-windows\Laboratory.Login.resources
+D:\New folder\Laboratory\obj\Debug\net5.0-windows\Laboratory.ScientistsForm.resources
+D:\New folder\Laboratory\obj\Debug\net5.0-windows\Laboratory.UpdateInfoForm.resources
+D:\New folder\Laboratory\obj\Debug\net5.0-windows\Laboratory.ViewParticipantForm.resources
+D:\New folder\Laboratory\obj\Debug\net5.0-windows\Laboratory.AddApparatusForm.resources
+D:\New folder\Laboratory\obj\Debug\net5.0-windows\Laboratory.AddProjectForm.resources
+D:\New folder\Laboratory\obj\Debug\net5.0-windows\Laboratory.AddScientistForm.resources
+D:\New folder\Laboratory\obj\Debug\net5.0-windows\Laboratory.Manager.EditScientistForm.resources
+D:\New folder\Laboratory\obj\Debug\net5.0-windows\Laboratory.MainPage_Manager.resources
+D:\New folder\Laboratory\obj\Debug\net5.0-windows\Laboratory.Properties.Resources.resources
+D:\New folder\Laboratory\obj\Debug\net5.0-windows\Laboratory.MainPage_Scientist.resources
+D:\New folder\Laboratory\obj\Debug\net5.0-windows\Laboratory.ReportForm.resources
+D:\New folder\Laboratory\obj\Debug\net5.0-windows\Laboratory.csproj.GenerateResource.cache
+D:\New folder\Laboratory\obj\Debug\net5.0-windows\Laboratory.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Laboratory\obj\Debug\net5.0-windows\Laboratory.AssemblyInfoInputs.cache
+D:\New folder\Laboratory\obj\Debug\net5.0-windows\Laboratory.AssemblyInfo.cs
+D:\New folder\Laboratory\obj\Debug\net5.0-windows\Laboratory.csproj.CoreCompileInputs.cache
+D:\New folder\Laboratory\obj\Debug\net5.0-windows\Laboratory.csproj.CopyComplete
+D:\New folder\Laboratory\obj\Debug\net5.0-windows\Laboratory.dll
+D:\New folder\Laboratory\obj\Debug\net5.0-windows\ref\Laboratory.dll
+D:\New folder\Laboratory\obj\Debug\net5.0-windows\Laboratory.pdb
+D:\New folder\Laboratory\obj\Debug\net5.0-windows\Laboratory.genruntimeconfig.cache

@@ -1,0 +1,193 @@
+D:\Projects\SoftwareEngineering\FinalProject\Laboratory\Laboratory\bin\Debug\netcoreapp3.1\Laboratory.exe
+D:\Projects\SoftwareEngineering\FinalProject\Laboratory\Laboratory\bin\Debug\netcoreapp3.1\Laboratory.deps.json
+D:\Projects\SoftwareEngineering\FinalProject\Laboratory\Laboratory\bin\Debug\netcoreapp3.1\Laboratory.runtimeconfig.json
+D:\Projects\SoftwareEngineering\FinalProject\Laboratory\Laboratory\bin\Debug\netcoreapp3.1\Laboratory.runtimeconfig.dev.json
+D:\Projects\SoftwareEngineering\FinalProject\Laboratory\Laboratory\bin\Debug\netcoreapp3.1\Laboratory.dll
+D:\Projects\SoftwareEngineering\FinalProject\Laboratory\Laboratory\bin\Debug\netcoreapp3.1\Laboratory.pdb
+D:\Projects\SoftwareEngineering\FinalProject\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.csprojAssemblyReference.cache
+D:\Projects\SoftwareEngineering\FinalProject\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.Login.resources
+D:\Projects\SoftwareEngineering\FinalProject\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.Properties.Resources.resources
+D:\Projects\SoftwareEngineering\FinalProject\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.csproj.GenerateResource.cache
+D:\Projects\SoftwareEngineering\FinalProject\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.AssemblyInfoInputs.cache
+D:\Projects\SoftwareEngineering\FinalProject\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.AssemblyInfo.cs
+D:\Projects\SoftwareEngineering\FinalProject\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.csproj.CoreCompileInputs.cache
+D:\Projects\SoftwareEngineering\FinalProject\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.dll
+D:\Projects\SoftwareEngineering\FinalProject\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.pdb
+D:\Projects\SoftwareEngineering\FinalProject\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.genruntimeconfig.cache
+D:\Projects\SoftwareEngineering\FinalProject\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.MainPage_Scientist.resources
+D:\Projects\SoftwareEngineering\FinalProject\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.UpdateInfoForm.resources
+D:\Projects\SoftwareEngineering\FinalProject\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.ChangePasswordForm.resources
+D:\Projects\SoftwareEngineering\FinalProject\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.ReportForm.resources
+D:\Projects\SoftwareEngineering\FinalProject\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.ViewParticipantForm.resources
+D:\Projects\SoftwareEngineering\FinalProject\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.DepartmentForm.resources
+D:\Projects\SoftwareEngineering\FinalProject\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.ScientistsForm.resources
+D:\Projects\SoftwareEngineering\FinalProject\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.ApparatusForm.resources
+C:\Users\Admin\Downloads\Laboratory\Laboratory\bin\Debug\netcoreapp3.1\Laboratory.exe
+C:\Users\Admin\Downloads\Laboratory\Laboratory\bin\Debug\netcoreapp3.1\Laboratory.deps.json
+C:\Users\Admin\Downloads\Laboratory\Laboratory\bin\Debug\netcoreapp3.1\Laboratory.runtimeconfig.json
+C:\Users\Admin\Downloads\Laboratory\Laboratory\bin\Debug\netcoreapp3.1\Laboratory.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\Laboratory\Laboratory\bin\Debug\netcoreapp3.1\Laboratory.dll
+C:\Users\Admin\Downloads\Laboratory\Laboratory\bin\Debug\netcoreapp3.1\Laboratory.pdb
+C:\Users\Admin\Downloads\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.Properties.Resources.resources
+C:\Users\Admin\Downloads\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.ApparatusForm.resources
+C:\Users\Admin\Downloads\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.ChangePasswordForm.resources
+C:\Users\Admin\Downloads\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.DepartmentForm.resources
+C:\Users\Admin\Downloads\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.Login.resources
+C:\Users\Admin\Downloads\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.MainPage_Scientist.resources
+C:\Users\Admin\Downloads\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.ReportForm.resources
+C:\Users\Admin\Downloads\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.ScientistsForm.resources
+C:\Users\Admin\Downloads\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.UpdateInfoForm.resources
+C:\Users\Admin\Downloads\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.ViewParticipantForm.resources
+C:\Users\Admin\Downloads\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.dll
+C:\Users\Admin\Downloads\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.pdb
+C:\Users\Admin\Downloads\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.genruntimeconfig.cache
+D:\Projects\SoftwareEngineering\FinalProject\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.MainPage_Manager.resources
+D:\Projects\SoftwareEngineering\FinalProject\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.AddScientistForm.resources
+D:\Projects\SoftwareEngineering\FinalProject\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.AddApparatusForm.resources
+D:\Projects\SoftwareEngineering\FinalProject\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.AddProjectForm.resources
+C:\Users\Admin\Desktop\Laboratory\Laboratory\bin\Debug\netcoreapp3.1\Laboratory.exe
+C:\Users\Admin\Desktop\Laboratory\Laboratory\bin\Debug\netcoreapp3.1\Laboratory.deps.json
+C:\Users\Admin\Desktop\Laboratory\Laboratory\bin\Debug\netcoreapp3.1\Laboratory.runtimeconfig.json
+C:\Users\Admin\Desktop\Laboratory\Laboratory\bin\Debug\netcoreapp3.1\Laboratory.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Laboratory\Laboratory\bin\Debug\netcoreapp3.1\Laboratory.dll
+C:\Users\Admin\Desktop\Laboratory\Laboratory\bin\Debug\netcoreapp3.1\Laboratory.pdb
+C:\Users\Admin\Desktop\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.ApparatusForm.resources
+C:\Users\Admin\Desktop\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.ChangePasswordForm.resources
+C:\Users\Admin\Desktop\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.DepartmentForm.resources
+C:\Users\Admin\Desktop\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.Login.resources
+C:\Users\Admin\Desktop\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.ScientistsForm.resources
+C:\Users\Admin\Desktop\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.UpdateInfoForm.resources
+C:\Users\Admin\Desktop\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.ViewParticipantForm.resources
+C:\Users\Admin\Desktop\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.AddApparatusForm.resources
+C:\Users\Admin\Desktop\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.AddProjectForm.resources
+C:\Users\Admin\Desktop\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.AddScientistForm.resources
+C:\Users\Admin\Desktop\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.MainPage_Manager.resources
+C:\Users\Admin\Desktop\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.Properties.Resources.resources
+C:\Users\Admin\Desktop\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.MainPage_Scientist.resources
+C:\Users\Admin\Desktop\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.ReportForm.resources
+C:\Users\Admin\Desktop\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.dll
+C:\Users\Admin\Desktop\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.pdb
+C:\Users\Admin\Desktop\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Laboratory\Laboratory\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Laboratory\Laboratory\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\Laboratory\Laboratory\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\Laboratory\Laboratory\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\Laboratory\Laboratory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Laboratory\Laboratory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Laboratory\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.csproj.CopyComplete
+C:\Users\Admin\Desktop\Laboratory-Management-System\Laboratory\bin\Debug\netcoreapp3.1\Laboratory.exe
+C:\Users\Admin\Desktop\Laboratory-Management-System\Laboratory\bin\Debug\netcoreapp3.1\Laboratory.deps.json
+C:\Users\Admin\Desktop\Laboratory-Management-System\Laboratory\bin\Debug\netcoreapp3.1\Laboratory.runtimeconfig.json
+C:\Users\Admin\Desktop\Laboratory-Management-System\Laboratory\bin\Debug\netcoreapp3.1\Laboratory.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Laboratory-Management-System\Laboratory\bin\Debug\netcoreapp3.1\Laboratory.dll
+C:\Users\Admin\Desktop\Laboratory-Management-System\Laboratory\bin\Debug\netcoreapp3.1\Laboratory.pdb
+C:\Users\Admin\Desktop\Laboratory-Management-System\Laboratory\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Laboratory-Management-System\Laboratory\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\Laboratory-Management-System\Laboratory\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\Laboratory-Management-System\Laboratory\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\Laboratory-Management-System\Laboratory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Laboratory-Management-System\Laboratory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Laboratory-Management-System\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Laboratory-Management-System\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.ApparatusForm.resources
+C:\Users\Admin\Desktop\Laboratory-Management-System\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.ChangePasswordForm.resources
+C:\Users\Admin\Desktop\Laboratory-Management-System\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.DepartmentForm.resources
+C:\Users\Admin\Desktop\Laboratory-Management-System\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.Login.resources
+C:\Users\Admin\Desktop\Laboratory-Management-System\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.ScientistsForm.resources
+C:\Users\Admin\Desktop\Laboratory-Management-System\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.UpdateInfoForm.resources
+C:\Users\Admin\Desktop\Laboratory-Management-System\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.ViewParticipantForm.resources
+C:\Users\Admin\Desktop\Laboratory-Management-System\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.AddApparatusForm.resources
+C:\Users\Admin\Desktop\Laboratory-Management-System\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.AddProjectForm.resources
+C:\Users\Admin\Desktop\Laboratory-Management-System\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.AddScientistForm.resources
+C:\Users\Admin\Desktop\Laboratory-Management-System\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.MainPage_Manager.resources
+C:\Users\Admin\Desktop\Laboratory-Management-System\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.Properties.Resources.resources
+C:\Users\Admin\Desktop\Laboratory-Management-System\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.MainPage_Scientist.resources
+C:\Users\Admin\Desktop\Laboratory-Management-System\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.ReportForm.resources
+C:\Users\Admin\Desktop\Laboratory-Management-System\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Laboratory-Management-System\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Laboratory-Management-System\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Laboratory-Management-System\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Laboratory-Management-System\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.csproj.CopyComplete
+C:\Users\Admin\Desktop\Laboratory-Management-System\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.dll
+C:\Users\Admin\Desktop\Laboratory-Management-System\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.pdb
+C:\Users\Admin\Desktop\Laboratory-Management-System\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.genruntimeconfig.cache
+D:\Software Engineering\lab-management\Laboratory\bin\Debug\netcoreapp3.1\Laboratory.exe
+D:\Software Engineering\lab-management\Laboratory\bin\Debug\netcoreapp3.1\Laboratory.deps.json
+D:\Software Engineering\lab-management\Laboratory\bin\Debug\netcoreapp3.1\Laboratory.runtimeconfig.json
+D:\Software Engineering\lab-management\Laboratory\bin\Debug\netcoreapp3.1\Laboratory.runtimeconfig.dev.json
+D:\Software Engineering\lab-management\Laboratory\bin\Debug\netcoreapp3.1\Laboratory.dll
+D:\Software Engineering\lab-management\Laboratory\bin\Debug\netcoreapp3.1\Laboratory.pdb
+D:\Software Engineering\lab-management\Laboratory\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Software Engineering\lab-management\Laboratory\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Software Engineering\lab-management\Laboratory\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Software Engineering\lab-management\Laboratory\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Software Engineering\lab-management\Laboratory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Software Engineering\lab-management\Laboratory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.csprojAssemblyReference.cache
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.ApparatusForm.resources
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.ChangePasswordForm.resources
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.DepartmentForm.resources
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.Login.resources
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.ScientistsForm.resources
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.UpdateInfoForm.resources
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.ViewParticipantForm.resources
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.AddApparatusForm.resources
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.AddProjectForm.resources
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.AddScientistForm.resources
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.MainPage_Manager.resources
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.Properties.Resources.resources
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.MainPage_Scientist.resources
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.ReportForm.resources
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.csproj.GenerateResource.cache
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.AssemblyInfoInputs.cache
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.AssemblyInfo.cs
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.csproj.CoreCompileInputs.cache
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.csproj.CopyComplete
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.dll
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.pdb
+D:\Software Engineering\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.genruntimeconfig.cache
+C:\Users\Admin\Desktop\lab-management\Laboratory\bin\Debug\netcoreapp3.1\Laboratory.exe
+C:\Users\Admin\Desktop\lab-management\Laboratory\bin\Debug\netcoreapp3.1\Laboratory.deps.json
+C:\Users\Admin\Desktop\lab-management\Laboratory\bin\Debug\netcoreapp3.1\Laboratory.runtimeconfig.json
+C:\Users\Admin\Desktop\lab-management\Laboratory\bin\Debug\netcoreapp3.1\Laboratory.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\lab-management\Laboratory\bin\Debug\netcoreapp3.1\Laboratory.dll
+C:\Users\Admin\Desktop\lab-management\Laboratory\bin\Debug\netcoreapp3.1\Laboratory.pdb
+C:\Users\Admin\Desktop\lab-management\Laboratory\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\lab-management\Laboratory\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\lab-management\Laboratory\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\lab-management\Laboratory\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\lab-management\Laboratory\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\lab-management\Laboratory\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.ApparatusForm.resources
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.ChangePasswordForm.resources
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.DepartmentForm.resources
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.Login.resources
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.ScientistsForm.resources
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.UpdateInfoForm.resources
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.ViewParticipantForm.resources
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.AddApparatusForm.resources
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.AddProjectForm.resources
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.AddScientistForm.resources
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.MainPage_Manager.resources
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.Properties.Resources.resources
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.MainPage_Scientist.resources
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.ReportForm.resources
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.AssemblyInfo.cs
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.csproj.CopyComplete
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.dll
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.pdb
+C:\Users\Admin\Desktop\lab-management\Laboratory\obj\Debug\netcoreapp3.1\Laboratory.genruntimeconfig.cache
+C:\Users\Admin\Desktop\lab-management\Laboratory\bin\Debug\netcoreapp3.1\Microsoft.Office.Interop.Word.dll
