@@ -119,7 +119,6 @@ namespace Laboratory.Includes
                 cbo.ValueMember = dt.Columns[0].ColumnName;
                 cbo.DisplayMember = dt.Columns[0].ColumnName;
 
-
             }
             catch (Exception ex)
             {

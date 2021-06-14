@@ -48,9 +48,10 @@ namespace Laboratory
             // label1
             // 
             this.label1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label1.Location = new System.Drawing.Point(0, 62);
+            this.label1.Location = new System.Drawing.Point(0, 37);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(900, 1);
+            this.label1.Size = new System.Drawing.Size(630, 1);
             this.label1.TabIndex = 23;
             this.label1.Text = "label1";
             // 
@@ -60,9 +61,10 @@ namespace Laboratory
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Segoe UI", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label2.ForeColor = System.Drawing.Color.RoyalBlue;
-            this.label2.Location = new System.Drawing.Point(316, 21);
+            this.label2.Location = new System.Drawing.Point(221, 13);
+            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(302, 54);
+            this.label2.Size = new System.Drawing.Size(206, 37);
             this.label2.TabIndex = 24;
             this.label2.Text = "Add apparatus";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -72,18 +74,20 @@ namespace Laboratory
             this.aprtnameTextbox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.aprtnameTextbox.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.aprtnameTextbox.ForeColor = System.Drawing.Color.DodgerBlue;
-            this.aprtnameTextbox.Location = new System.Drawing.Point(197, 98);
+            this.aprtnameTextbox.Location = new System.Drawing.Point(138, 59);
+            this.aprtnameTextbox.Margin = new System.Windows.Forms.Padding(2);
             this.aprtnameTextbox.Name = "aprtnameTextbox";
-            this.aprtnameTextbox.Size = new System.Drawing.Size(350, 31);
+            this.aprtnameTextbox.Size = new System.Drawing.Size(246, 23);
             this.aprtnameTextbox.TabIndex = 116;
             // 
             // label5
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label5.Location = new System.Drawing.Point(43, 315);
+            this.label5.Location = new System.Drawing.Point(30, 189);
+            this.label5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(100, 28);
+            this.label5.Size = new System.Drawing.Size(70, 19);
             this.label5.TabIndex = 115;
             this.label5.Text = "Quantity:";
             // 
@@ -91,9 +95,10 @@ namespace Laboratory
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label4.Location = new System.Drawing.Point(43, 151);
+            this.label4.Location = new System.Drawing.Point(30, 91);
+            this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(126, 28);
+            this.label4.Size = new System.Drawing.Size(89, 19);
             this.label4.TabIndex = 114;
             this.label4.Text = "Description:";
             // 
@@ -101,9 +106,10 @@ namespace Laboratory
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label3.Location = new System.Drawing.Point(43, 101);
+            this.label3.Location = new System.Drawing.Point(30, 61);
+            this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(73, 28);
+            this.label3.Size = new System.Drawing.Size(53, 19);
             this.label3.TabIndex = 113;
             this.label3.Text = "Name:";
             // 
@@ -112,25 +118,28 @@ namespace Laboratory
             this.quantityTextbox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.quantityTextbox.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.quantityTextbox.ForeColor = System.Drawing.Color.DodgerBlue;
-            this.quantityTextbox.Location = new System.Drawing.Point(197, 312);
+            this.quantityTextbox.Location = new System.Drawing.Point(138, 187);
+            this.quantityTextbox.Margin = new System.Windows.Forms.Padding(2);
             this.quantityTextbox.Name = "quantityTextbox";
-            this.quantityTextbox.Size = new System.Drawing.Size(350, 31);
+            this.quantityTextbox.Size = new System.Drawing.Size(246, 23);
             this.quantityTextbox.TabIndex = 118;
             // 
             // aprtdescriptTextbox
             // 
-            this.aprtdescriptTextbox.Location = new System.Drawing.Point(197, 148);
+            this.aprtdescriptTextbox.Location = new System.Drawing.Point(138, 89);
+            this.aprtdescriptTextbox.Margin = new System.Windows.Forms.Padding(2);
             this.aprtdescriptTextbox.Name = "aprtdescriptTextbox";
-            this.aprtdescriptTextbox.Size = new System.Drawing.Size(350, 144);
+            this.aprtdescriptTextbox.Size = new System.Drawing.Size(246, 88);
             this.aprtdescriptTextbox.TabIndex = 119;
             this.aprtdescriptTextbox.Text = "";
             // 
             // aprtpicBox
             // 
             this.aprtpicBox.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.aprtpicBox.Location = new System.Drawing.Point(553, 98);
+            this.aprtpicBox.Location = new System.Drawing.Point(387, 59);
+            this.aprtpicBox.Margin = new System.Windows.Forms.Padding(2);
             this.aprtpicBox.Name = "aprtpicBox";
-            this.aprtpicBox.Size = new System.Drawing.Size(296, 194);
+            this.aprtpicBox.Size = new System.Drawing.Size(208, 118);
             this.aprtpicBox.TabIndex = 120;
             this.aprtpicBox.TabStop = false;
             // 
@@ -144,10 +153,11 @@ namespace Laboratory
             this.cancelBtn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.LightSkyBlue;
             this.cancelBtn.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.cancelBtn.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.cancelBtn.Location = new System.Drawing.Point(468, 372);
+            this.cancelBtn.Location = new System.Drawing.Point(328, 218);
+            this.cancelBtn.Margin = new System.Windows.Forms.Padding(2);
             this.cancelBtn.Name = "cancelBtn";
             this.cancelBtn.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.cancelBtn.Size = new System.Drawing.Size(150, 40);
+            this.cancelBtn.Size = new System.Drawing.Size(105, 29);
             this.cancelBtn.TabIndex = 123;
             this.cancelBtn.Text = "Cancel";
             this.cancelBtn.TextAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -164,13 +174,15 @@ namespace Laboratory
             this.addBtn.FlatAppearance.MouseDownBackColor = System.Drawing.Color.LightSkyBlue;
             this.addBtn.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.addBtn.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.addBtn.Location = new System.Drawing.Point(297, 372);
+            this.addBtn.Location = new System.Drawing.Point(208, 218);
+            this.addBtn.Margin = new System.Windows.Forms.Padding(2);
             this.addBtn.Name = "addBtn";
-            this.addBtn.Size = new System.Drawing.Size(150, 40);
+            this.addBtn.Size = new System.Drawing.Size(105, 29);
             this.addBtn.TabIndex = 122;
             this.addBtn.Text = "Add";
             this.addBtn.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             this.addBtn.UseVisualStyleBackColor = false;
+            this.addBtn.Click += new System.EventHandler(this.addBtn_Click);
             // 
             // addaprtpicBtn
             // 
@@ -183,19 +195,21 @@ namespace Laboratory
             this.addaprtpicBtn.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.addaprtpicBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.addaprtpicBtn.Image = ((System.Drawing.Image)(resources.GetObject("addaprtpicBtn.Image")));
-            this.addaprtpicBtn.Location = new System.Drawing.Point(803, 249);
+            this.addaprtpicBtn.Location = new System.Drawing.Point(562, 149);
+            this.addaprtpicBtn.Margin = new System.Windows.Forms.Padding(2);
             this.addaprtpicBtn.Name = "addaprtpicBtn";
-            this.addaprtpicBtn.Size = new System.Drawing.Size(43, 40);
+            this.addaprtpicBtn.Size = new System.Drawing.Size(30, 24);
             this.addaprtpicBtn.TabIndex = 124;
             this.addaprtpicBtn.TabStop = false;
             this.addaprtpicBtn.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.addaprtpicBtn.UseVisualStyleBackColor = false;
+            this.addaprtpicBtn.Click += new System.EventHandler(this.addaprtpicBtn_Click);
             // 
             // AddApparatusForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(900, 450);
+            this.ClientSize = new System.Drawing.Size(630, 270);
             this.Controls.Add(this.addaprtpicBtn);
             this.Controls.Add(this.cancelBtn);
             this.Controls.Add(this.addBtn);
@@ -210,6 +224,7 @@ namespace Laboratory
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "AddApparatusForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Add apparatus";

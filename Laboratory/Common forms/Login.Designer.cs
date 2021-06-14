@@ -82,7 +82,7 @@ namespace Laboratory
             this.usnTxtBox.Name = "usnTxtBox";
             this.usnTxtBox.Size = new System.Drawing.Size(210, 18);
             this.usnTxtBox.TabIndex = 6;
-            this.usnTxtBox.Text = "jackobrien";
+            this.usnTxtBox.Text = "duyhuynh";
             this.usnTxtBox.KeyDown += new System.Windows.Forms.KeyEventHandler(this.usnTxtBox_KeyDown);
             // 
             // exitLabel
@@ -108,7 +108,7 @@ namespace Laboratory
             this.passTxtBox.Name = "passTxtBox";
             this.passTxtBox.Size = new System.Drawing.Size(210, 18);
             this.passTxtBox.TabIndex = 13;
-            this.passTxtBox.Text = "1234567890";
+            this.passTxtBox.Text = "cheytacm200";
             this.passTxtBox.UseSystemPasswordChar = true;
             this.passTxtBox.KeyDown += new System.Windows.Forms.KeyEventHandler(this.passTxtBox_KeyDown);
             // 

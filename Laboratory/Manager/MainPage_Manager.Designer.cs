@@ -186,6 +186,7 @@ namespace Laboratory
             this.changepicBtn.TabStop = false;
             this.changepicBtn.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.changepicBtn.UseVisualStyleBackColor = false;
+            this.changepicBtn.Click += new System.EventHandler(this.changepicBtn_Click);
             // 
             // profilepicBox
             // 
@@ -864,7 +865,8 @@ namespace Laboratory
             // 
             // label46
             // 
-            this.label46.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.label46.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.label46.AutoSize = true;
             this.label46.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label46.Location = new System.Drawing.Point(657, 52);
@@ -903,6 +905,7 @@ namespace Laboratory
             this.removesctBtn.TabIndex = 103;
             this.removesctBtn.Text = "Remove";
             this.removesctBtn.UseVisualStyleBackColor = false;
+            this.removesctBtn.Click += new System.EventHandler(this.removesctBtn_Click);
             // 
             // addsctBtn
             // 
@@ -925,7 +928,6 @@ namespace Laboratory
             // 
             // searchsctTextbox
             // 
-            this.searchsctTextbox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.searchsctTextbox.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.searchsctTextbox.ForeColor = System.Drawing.Color.Black;
             this.searchsctTextbox.Location = new System.Drawing.Point(1, 44);
@@ -1156,7 +1158,6 @@ namespace Laboratory
             // 
             // searchprjTextbox
             // 
-            this.searchprjTextbox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.searchprjTextbox.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.searchprjTextbox.ForeColor = System.Drawing.Color.Black;
             this.searchprjTextbox.Location = new System.Drawing.Point(1, 48);
@@ -1214,7 +1215,8 @@ namespace Laboratory
             // 
             // label47
             // 
-            this.label47.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.label47.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.label47.AutoSize = true;
             this.label47.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label47.Location = new System.Drawing.Point(669, 56);
@@ -1253,6 +1255,7 @@ namespace Laboratory
             this.removeaprtBtn.TabIndex = 109;
             this.removeaprtBtn.Text = "Remove";
             this.removeaprtBtn.UseVisualStyleBackColor = false;
+            this.removeaprtBtn.Click += new System.EventHandler(this.removeaprtBtn_Click);
             // 
             // addaprtBtn
             // 
@@ -1276,6 +1279,9 @@ namespace Laboratory
             // apparatusGridview
             // 
             this.apparatusGridview.AllowUserToAddRows = false;
+            this.apparatusGridview.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.apparatusGridview.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.apparatusGridview.BackgroundColor = System.Drawing.Color.White;
             this.apparatusGridview.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
@@ -1292,7 +1298,6 @@ namespace Laboratory
             // 
             // searchaprtTextbox
             // 
-            this.searchaprtTextbox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.searchaprtTextbox.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.searchaprtTextbox.ForeColor = System.Drawing.Color.Black;
             this.searchaprtTextbox.Location = new System.Drawing.Point(1, 48);

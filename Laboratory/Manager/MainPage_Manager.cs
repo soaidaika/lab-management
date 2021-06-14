@@ -4,6 +4,8 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.Drawing.Imaging;
+using System.IO;
 using System.Text;
 using System.Windows.Forms;
 
@@ -156,13 +158,31 @@ namespace Laboratory
         private void addsctBtn_Click(object sender, EventArgs e)
         {
             AddScientistForm form = new AddScientistForm();
+            form.FormClosed += new FormClosedEventHandler(MainPage_Manager_Load);
             form.ShowDialog();
+        }
+
+        private void removesctBtn_Click(object sender, EventArgs e)
+        {
+            curr_scientist_id = scientistGridview.CurrentRow.Cells["ID"].Value.ToString();
+            config.Execute_CUD("exec sp_RemoveScientist '" + curr_scientist_id + "' ", "Cannot delete the selected scientist", "Scientist is deleted");
+            pictureBox1.Image = null;
+            list_all_scientists("exec sp_ListOfScientist");
         }
 
         private void addaprtBtn_Click(object sender, EventArgs e)
         {
             AddApparatusForm form = new AddApparatusForm();
+            form.FormClosed += new FormClosedEventHandler(MainPage_Manager_Load);
             form.ShowDialog();
+        }
+
+        private void removeaprtBtn_Click(object sender, EventArgs e)
+        {
+            curr_appar_id = apparatusGridview.CurrentRow.Cells["ID"].Value.ToString();
+            config.Execute_CUD("exec sp_RemoveApparatus '" + curr_appar_id + "' ", "Cannot delete the selected apparatus", "Apparatus is deleted");
+            pictureBox2.Image = null;
+            list_all_apparatuses("exec sp_ListOfApparatus");
         }
 
         private void addprjBtn_Click(object sender, EventArgs e)
@@ -216,5 +236,49 @@ namespace Laboratory
             config.Load_DTG("exec sp_ShowApparatusInProject " + curr_proj_id + " ", takenaprtGridview);
             config.Load_DTG("exec sp_ShowReportsInExp " + curr_proj_id + " ", reportGridview);
         }
+
+        private void changepicBtn_Click(object sender, EventArgs e)
+        {
+            using (OpenFileDialog dlg = new OpenFileDialog())
+            {
+                dlg.Filter = "";
+                dlg.Title = "Choose one image";
+                dlg.Multiselect = false;
+
+                ImageCodecInfo[] codecs = ImageCodecInfo.GetImageEncoders();
+                string sep = string.Empty;
+
+                foreach (var c in codecs)
+                {
+                    string codecName = c.CodecName.Substring(8).Replace("Codec", "Files").Trim();
+                    dlg.Filter = String.Format("{0}{1}{2} ({3})|{3}", dlg.Filter, sep, codecName, c.FilenameExtension);
+                    sep = "|";
+                }
+
+                dlg.Filter = String.Format("{0}{1}{2} ({3})|{3}", dlg.Filter, sep, "All Files", "*.*");
+
+                dlg.DefaultExt = ".png";
+
+                if (dlg.ShowDialog() == DialogResult.OK)
+                {
+                    /*
+                     * It is a circus down here
+                     */
+
+                    // Read the bytes from the chosen image
+                    byte[] image_bytes = File.ReadAllBytes(dlg.FileName);
+
+                    // Convert it into hexadecimal string
+                    string hex = BitConverter.ToString(image_bytes).Replace("-", String.Empty);
+
+                    // Execute the stored procedure to update it in the database
+                    config.Execute_Query("exec sp_ChangeProfilePic " + id + ", '0x" + hex + "' ");
+
+                    // And show the new profile image
+                    config.GetImage("select ProfilePic from Scientist where ID = '" + id + "' ", id, profilepicBox, "ProfilePic");
+                }
+            }
+        }
+
     }
 }

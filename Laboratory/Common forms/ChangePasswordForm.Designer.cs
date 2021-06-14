@@ -194,7 +194,6 @@ namespace Laboratory
             this.Name = "ChangePasswordForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Change password";
-            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.ChangePasswordForm_FormClosed);
             this.Paint += new System.Windows.Forms.PaintEventHandler(this.ChangePasswordForm_Paint);
             this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.ChangePasswordForm_MouseDown);
             this.MouseMove += new System.Windows.Forms.MouseEventHandler(this.ChangePasswordForm_MouseMove);

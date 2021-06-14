@@ -53,7 +53,7 @@ namespace Laboratory
             }
             else
             {
-                MessageBox.Show("Account does not exist! Please contact administrator.", "", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Wrong username or password.", "", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
         private void loginBtn_Click(object sender, EventArgs e)

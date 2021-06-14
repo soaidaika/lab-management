@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GJpWZJVeKiD0URYydOClzaQIAuFUPnZFw+NaaeLwZ3+hSDSZV65f5s/DJLphP8ObODvUOYKL/0dtA13jOv56tA==",
+  "dgSpecHash": "ZvHd3ze6k3a2svWi2VbF/vUVhk8KpbC5JPOzDvBkZMZhSYctIRYgtzVDv979NuwOPzuDtWMUpntc1rvBjTzd/w==",
   "success": true,
-  "projectFilePath": "D:\\New folder\\Laboratory\\Laboratory.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\lab-management\\Laboratory\\Laboratory.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

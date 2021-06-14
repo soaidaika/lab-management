@@ -88,7 +88,7 @@ namespace Laboratory
             // 
             this.profilepicBox.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.profilepicBox.Location = new System.Drawing.Point(204, 82);
-            this.profilepicBox.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.profilepicBox.Margin = new System.Windows.Forms.Padding(2);
             this.profilepicBox.Name = "profilepicBox";
             this.profilepicBox.Size = new System.Drawing.Size(106, 92);
             this.profilepicBox.TabIndex = 52;
@@ -212,7 +212,7 @@ namespace Laboratory
             this.fnameTextbox.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.fnameTextbox.ForeColor = System.Drawing.Color.DodgerBlue;
             this.fnameTextbox.Location = new System.Drawing.Point(176, 182);
-            this.fnameTextbox.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.fnameTextbox.Margin = new System.Windows.Forms.Padding(2);
             this.fnameTextbox.Name = "fnameTextbox";
             this.fnameTextbox.Size = new System.Drawing.Size(246, 23);
             this.fnameTextbox.TabIndex = 101;
@@ -223,7 +223,7 @@ namespace Laboratory
             this.cardTextbox.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.cardTextbox.ForeColor = System.Drawing.Color.DodgerBlue;
             this.cardTextbox.Location = new System.Drawing.Point(176, 362);
-            this.cardTextbox.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.cardTextbox.Margin = new System.Windows.Forms.Padding(2);
             this.cardTextbox.Name = "cardTextbox";
             this.cardTextbox.Size = new System.Drawing.Size(246, 25);
             this.cardTextbox.TabIndex = 107;
@@ -234,7 +234,7 @@ namespace Laboratory
             this.addressTextbox.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.addressTextbox.ForeColor = System.Drawing.Color.DodgerBlue;
             this.addressTextbox.Location = new System.Drawing.Point(176, 392);
-            this.addressTextbox.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.addressTextbox.Margin = new System.Windows.Forms.Padding(2);
             this.addressTextbox.Name = "addressTextbox";
             this.addressTextbox.Size = new System.Drawing.Size(246, 25);
             this.addressTextbox.TabIndex = 108;
@@ -245,7 +245,7 @@ namespace Laboratory
             this.phoneTextbox.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.phoneTextbox.ForeColor = System.Drawing.Color.DodgerBlue;
             this.phoneTextbox.Location = new System.Drawing.Point(176, 422);
-            this.phoneTextbox.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.phoneTextbox.Margin = new System.Windows.Forms.Padding(2);
             this.phoneTextbox.Name = "phoneTextbox";
             this.phoneTextbox.Size = new System.Drawing.Size(246, 25);
             this.phoneTextbox.TabIndex = 109;
@@ -256,7 +256,7 @@ namespace Laboratory
             this.emailTextbox.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.emailTextbox.ForeColor = System.Drawing.Color.DodgerBlue;
             this.emailTextbox.Location = new System.Drawing.Point(176, 452);
-            this.emailTextbox.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.emailTextbox.Margin = new System.Windows.Forms.Padding(2);
             this.emailTextbox.Name = "emailTextbox";
             this.emailTextbox.Size = new System.Drawing.Size(246, 25);
             this.emailTextbox.TabIndex = 110;
@@ -280,7 +280,7 @@ namespace Laboratory
             "Research Engineer",
             "Security"});
             this.posCombobox.Location = new System.Drawing.Point(176, 212);
-            this.posCombobox.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.posCombobox.Margin = new System.Windows.Forms.Padding(2);
             this.posCombobox.Name = "posCombobox";
             this.posCombobox.Size = new System.Drawing.Size(246, 23);
             this.posCombobox.TabIndex = 111;
@@ -295,7 +295,7 @@ namespace Laboratory
             "Hematology",
             "Microbiology"});
             this.depCombobox.Location = new System.Drawing.Point(176, 242);
-            this.depCombobox.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.depCombobox.Margin = new System.Windows.Forms.Padding(2);
             this.depCombobox.Name = "depCombobox";
             this.depCombobox.Size = new System.Drawing.Size(246, 23);
             this.depCombobox.TabIndex = 112;
@@ -502,7 +502,7 @@ namespace Laboratory
             "Zambia",
             "Zimbabwe"});
             this.nationalityCombobox.Location = new System.Drawing.Point(176, 332);
-            this.nationalityCombobox.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.nationalityCombobox.Margin = new System.Windows.Forms.Padding(2);
             this.nationalityCombobox.Name = "nationalityCombobox";
             this.nationalityCombobox.Size = new System.Drawing.Size(246, 23);
             this.nationalityCombobox.TabIndex = 113;
@@ -512,7 +512,7 @@ namespace Laboratory
             this.maleBtn.AutoSize = true;
             this.maleBtn.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.maleBtn.Location = new System.Drawing.Point(176, 305);
-            this.maleBtn.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.maleBtn.Margin = new System.Windows.Forms.Padding(2);
             this.maleBtn.Name = "maleBtn";
             this.maleBtn.Size = new System.Drawing.Size(51, 19);
             this.maleBtn.TabIndex = 114;
@@ -525,7 +525,7 @@ namespace Laboratory
             this.femaleBtn.AutoSize = true;
             this.femaleBtn.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.femaleBtn.Location = new System.Drawing.Point(274, 305);
-            this.femaleBtn.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.femaleBtn.Margin = new System.Windows.Forms.Padding(2);
             this.femaleBtn.Name = "femaleBtn";
             this.femaleBtn.Size = new System.Drawing.Size(63, 19);
             this.femaleBtn.TabIndex = 115;
@@ -537,8 +537,10 @@ namespace Laboratory
             // 
             this.dobTimepicker.CalendarTitleBackColor = System.Drawing.SystemColors.ControlText;
             this.dobTimepicker.CalendarTitleForeColor = System.Drawing.SystemColors.ControlText;
+            this.dobTimepicker.CustomFormat = "yyyy-MM-dd";
+            this.dobTimepicker.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
             this.dobTimepicker.Location = new System.Drawing.Point(176, 272);
-            this.dobTimepicker.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.dobTimepicker.Margin = new System.Windows.Forms.Padding(2);
             this.dobTimepicker.MaxDate = new System.DateTime(2100, 1, 1, 0, 0, 0, 0);
             this.dobTimepicker.MinDate = new System.DateTime(1980, 1, 1, 0, 0, 0, 0);
             this.dobTimepicker.Name = "dobTimepicker";
@@ -556,7 +558,7 @@ namespace Laboratory
             this.cancelBtn.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.cancelBtn.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.cancelBtn.Location = new System.Drawing.Point(258, 483);
-            this.cancelBtn.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.cancelBtn.Margin = new System.Windows.Forms.Padding(2);
             this.cancelBtn.Name = "cancelBtn";
             this.cancelBtn.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.cancelBtn.Size = new System.Drawing.Size(105, 29);
@@ -577,13 +579,14 @@ namespace Laboratory
             this.addBtn.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.addBtn.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.addBtn.Location = new System.Drawing.Point(138, 483);
-            this.addBtn.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.addBtn.Margin = new System.Windows.Forms.Padding(2);
             this.addBtn.Name = "addBtn";
             this.addBtn.Size = new System.Drawing.Size(105, 29);
             this.addBtn.TabIndex = 117;
             this.addBtn.Text = "Add";
             this.addBtn.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             this.addBtn.UseVisualStyleBackColor = false;
+            this.addBtn.Click += new System.EventHandler(this.addBtn_Click);
             // 
             // addpicBtn
             // 
@@ -597,13 +600,14 @@ namespace Laboratory
             this.addpicBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.addpicBtn.Image = ((System.Drawing.Image)(resources.GetObject("addpicBtn.Image")));
             this.addpicBtn.Location = new System.Drawing.Point(276, 146);
-            this.addpicBtn.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.addpicBtn.Margin = new System.Windows.Forms.Padding(2);
             this.addpicBtn.Name = "addpicBtn";
             this.addpicBtn.Size = new System.Drawing.Size(30, 24);
             this.addpicBtn.TabIndex = 119;
             this.addpicBtn.TabStop = false;
             this.addpicBtn.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.addpicBtn.UseVisualStyleBackColor = false;
+            this.addpicBtn.Click += new System.EventHandler(this.addpicBtn_Click);
             // 
             // AddScientistForm
             // 
@@ -640,7 +644,7 @@ namespace Laboratory
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "AddScientistForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Add scientist";

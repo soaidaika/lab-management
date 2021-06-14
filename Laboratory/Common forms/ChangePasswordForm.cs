@@ -64,10 +64,5 @@ namespace Laboratory
             config.Execute_CUD(query, "No data saved.", "Data has been saved in the database.");
             Close();
         }
-
-        private void ChangePasswordForm_FormClosed(object sender, FormClosedEventArgs e)
-        {
-            config.Execute_Query("drop table temp");
-        }
     }
 }
